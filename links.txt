@@ -1,0 +1,12 @@
+https://github.com/SeleniumHQ/selenium (Selenium Source code, written in Java)
+https://www.youtube.com/watch?v=IYILCEV5j6s&list=PLUDwpEzHYYLvx6SuogA7Zhb_hZl3sln66
+https://www.selenium.dev/downloads/  (Selenium Client & WebDriver)
+https://github.com/mozilla/geckodriver/releases (Browser drivers like "Mozilla Gecko Drivers" etc)
+
+https://selenium-release.storage.googleapis.com/index.html (32 bit driver is recommended for IE irrespective of your OS is of 32 bit or 64 bit)
+(You do not need to run an installer before using the InternetExplorerDriver, though some configuration is required.
+The standalone server executable must be downloaded from the Downloads page and placed in your PATH.)
+
+https://sites.google.com/a/chromium.org/chromedriver/ (Only 32 bit, no 64 bit)
+
+https://developer.apple.com/documentation/webkit/testing_with_webdriver_in_safari (Safari)

@@ -1,0 +1,20 @@
+ajax calls(asyncronous java script & xml)--- it is possible to update parts of a web page, without reloading the whole page
+implicit wait-- (global) no conditions-- if element not found, throws error-- "implicitlyWait(Timeout)
+explicit wait--- with conditions-- "webdriverWait"
+fluent wait-- 
+POM
+DOM
+selenium architecture
+cookies 
+
+dynamicwaits(if elements are loaded within timeout, remaining wait time is ignored) 
+
+
+not to use both implicit and explicit wait together, 
+
+implicit waits are applied first, and then explicits waits are applied
+if the element is found, within the mentioned implicit wait timeout, 
+then explicit wait timeout will be added wait
+
+
+implicit wait for smaller applications
